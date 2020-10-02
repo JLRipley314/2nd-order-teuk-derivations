@@ -13,9 +13,11 @@ book [The Mathematical Theory of Black holes](https://books.google.com/books/abo
 
 ## Citation
 
-If you use this code please cite:	
-
-	...
+If you use this code please cite
+our [paper](https://inspirehep.net/literature/1820630)
+which uses this code. Also consider citing our 
+[paper](https://inspirehep.net/literature/1813628)
+which describes our formalism in more detail.
 
 # Contact
 
